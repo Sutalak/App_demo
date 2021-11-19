@@ -132,10 +132,12 @@
   .btn1{
     background: linear-gradient(to bottom,#ffeb3b,#ffc107);
     margin: 10px;
+    border-radius: 20px;
   }
   .btn2{
     background: linear-gradient(to bottom,#ffffff,#ececec);
     margin: 10px;
+    border-radius: 20px;
   }
   .txt1{
     color: black;
